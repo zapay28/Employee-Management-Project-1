@@ -13,3 +13,5 @@ export class ContohGitComponent implements OnInit {
   }
 
 }
+
+// perubahan untuk recommit
